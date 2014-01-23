@@ -8,7 +8,7 @@
   </parent>
   <groupId>org.jahia.modules</groupId>
   <artifactId>test</artifactId>
-  <version>5.0</version>
+  <version>5.1-SNAPSHOT</version>
   <packaging>bundle</packaging>
   <name>test</name>
   <description>This is the custom module (test) for running on a Jahia xCM server.</description>
